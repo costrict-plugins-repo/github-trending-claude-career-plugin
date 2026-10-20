@@ -1,0 +1,9 @@
+{
+  "name": "claude-career-plugin",
+  "description": "AI job search command center -- evaluate offers, generate tailored CVs, scan portals, track applications. Turns Claude Code into a full recruiting pipeline.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Santiago Fernandez de Valderrama",
+    "email": "hi@santifer.io"
+  }
+}

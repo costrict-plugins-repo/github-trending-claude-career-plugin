@@ -1,0 +1,17 @@
+{
+  "name": "claude-career-plugin",
+  "owner": {
+    "name": "skytow"
+  },
+  "metadata": {
+    "description": "AI-powered job search pipeline plugin for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "claude-career-plugin",
+      "description": "AI job search command center -- evaluate offers, generate tailored CVs, scan portals, track applications",
+      "version": "2.0.0",
+      "source": "./"
+    }
+  ]
+}
